@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979940993593",
+    "project_id": "pocka-8b0e9",
+    "storage_bucket": "pocka-8b0e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979940993593:android:047998fff8d39459db3be8",
+        "android_client_info": {
+          "package_name": "com.example.pocka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYddBOivt5LtmjQWxxm0une8TyJhN3wDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979940993593:android:3464d24f013d9c0edb3be8",
+        "android_client_info": {
+          "package_name": "com.example.pocka_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYddBOivt5LtmjQWxxm0une8TyJhN3wDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
